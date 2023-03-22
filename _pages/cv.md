@@ -9,7 +9,7 @@ redirect_from:
 
 {% include base_path %}
 
-Download for my CV in <u><a href="{{https://lixia001.github.io/files/Li Xia_resume_ZH.pdf}}">Chinese</u> / <u><a href="{{https://lixia001.github.io/files/Li Xia_resume_EN.pdf}}">English</u>
+Check my CV in <u><a href="{{https://lixia001.github.io/files/Li Xia_resume_ZH.pdf}}">Chinese</u> /  <a href="https://lixia001.github.io/files/Li Xia_resume_EN.pdf">English</a>
 
 Education
 ======
