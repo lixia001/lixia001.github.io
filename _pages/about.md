@@ -14,7 +14,6 @@ My current research interests are international health law and international env
 
 News
 ======
-2023-03-17: Attended a conference organised by the CDC and shared insights on fair sharing of DSI of pathogenic microorganisms in international law.
+[2023-03-17]: Attended a conference organised by the CDC and shared insights on fair sharing of DSI of pathogenic microorganisms in international law.
 
-![Editing a markdown file for a talk](/images/0317conference.png)
 
