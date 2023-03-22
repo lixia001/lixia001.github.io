@@ -9,7 +9,7 @@ redirect_from:
 
 {% include base_path %}
 
-Check my CV in <a href="https://lixia001.github.io/files/Li Xia_resume_ZH.pdf">English</a> /  <a href="https://lixia001.github.io/files/Li Xia_resume_EN.pdf">English</a>
+Check my CV in <a href="https://lixia001.github.io/files/Li Xia_resume_ZH.pdf">Chinese</a> /  <a href="https://lixia001.github.io/files/Li Xia_resume_EN.pdf">English</a>
 
 Education
 ======
