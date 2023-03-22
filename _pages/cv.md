@@ -9,6 +9,8 @@ redirect_from:
 
 {% include base_path %}
 
+Download for my CV in <u><a href="{{https://lixia001.github.io/files/Li Xia_resume_ZH.pdf}}">[Chinese]</a>.</u> / [English]()
+
 Education
 ======
 * B.S. in GitHub, GitHub University, 2012
