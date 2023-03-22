@@ -13,9 +13,8 @@ Check my CV in <a href="https://lixia001.github.io/files/Li Xia_resume_ZH.pdf">C
 
 Education
 ======
-* B.S. in GitHub, GitHub University, 2012
-* M.S. in Jekyll, GitHub University, 2014
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
+* Master student in International Law, Beijing Institue of Technology, 2022-NOW
+* Undergraduate student in Law, Beijing Jiaotong University, 2018-2022
 
 Work experience
 ======
@@ -41,18 +40,6 @@ Skills
 Publications
 ======
   <ul>{% for post in site.publications %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Talks
-======
-  <ul>{% for post in site.talks %}
-    {% include archive-single-talk-cv.html %}
-  {% endfor %}</ul>
-  
-Teaching
-======
-  <ul>{% for post in site.teaching %}
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
   
