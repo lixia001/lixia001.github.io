@@ -2,6 +2,7 @@
 title: "CISG默示排除规则在中国法院的适用"
 collection: publications
 excerpt: 'Excellent Undergraduate Design (Thesis) of Beijing Jiaotong University'
+Venue: Currently Unknown
 date: 2022-07-08
 
 ---
