@@ -1,15 +1,12 @@
 ---
-title: "Paper Title Number 3"
+title: "CISG默示排除规则在中国法院的适用"
 collection: publications
-permalink: /publication/2015-10-01-paper-title-number-3
-excerpt: 'This paper is about the number 3. The number 4 is left for future work.'
-date: 2015-10-01
-venue: 'Journal 1'
-paperurl: 'http://academicpages.github.io/files/paper3.pdf'
-citation: 'Your Name, You. (2015). &quot;Paper Title Number 3.&quot; <i>Journal 1</i>. 1(3).'
+excerpt: 'Excellent Undergraduate Design (Thesis) of Beijing Jiaotong University'
+date: 2022-07-08
+
 ---
-This paper is about the number 3. The number 4 is left for future work.
+The article is a specialized study on the application of the implied exclusion rule of the United Nations Convention on Contracts for the International Sale of Goods (CISG) in the Chinese courts, an empirical investigation and a typological analysis of 288 cases in practice, and an analysis of contradictory practices in practice.
+The article proposes a typological approach to the courts in different situations, taking into account the history of the Convention, the practice of national courts and doctrinal analysis.
+The thesis "The Application of the Implied Exclusion Rule of the United Nations Convention on Contracts for the International Sale of Goods in Chinese Courts" was awarded the title of outstanding thesis at the university level.
 
-[Download paper here](http://academicpages.github.io/files/paper3.pdf)
-
-Recommended citation: Your Name, You. (2015). "Paper Title Number 3." <i>Journal 1</i>. 1(3).
+The paper is still under revision and is not available for public download.
