@@ -8,9 +8,11 @@ redirect_from:
   - /about.html
 ---
 
-Hi! I'm Li Xia, a first-year graduate from [Beijing Institute of Technology](https://english.bit.edu.cn/) majoring in International Law, supervised by [Prof. Dr. Gong Xiangqian](https://law.bit.edu.cn/xygk/szll/gjfyjs2/b180386.htm). I obtained my bachelor degree in law from [Beijing Jiaotong University](http://en.njtu.edu.cn/).
+Li Xia is a postgraduate student majoring in international law at the [Beijing Institute of Technology](https://english.bit.edu.cn/). She has been awarded the Outstanding Graduate of Beijing by Beijing Municipal Education Commission and Outstanding Contribution Award by China International Economic and Trade Arbitration Commission in 2022.
+During her master program, she focuses on access and benefit-sharing mechanisms. In March this year, she participated in a legal policy workshop on sharing pathogenic microbial resources organized by the Chinese Center for Disease Control and Prevention and presented with her mentor on the fair sharing of digital sequence information of pathogenic microorganisms from the perspective of international law.
+She has participated in translating and writing several books, including Personalized Law and Blockchain Law. Her guiding article on how to do legal research in legal competitions was reposted by an official account and widely read.
+She took part in Vis Moot and CIETAC CUP International Commercial Arbitration Moot as leader and oralist several times and won national second awards. She’s also the co-founder of BJTU MootCourtBoard.
 
-My current research interests are international health law and international environmental law.
 
 News
 ======
