@@ -40,7 +40,7 @@ Work experience
   * Participated in the drafting of Compilation of Compliance Regulations and Standards, Guide to Corporate Intellectual Property Practices and Guide to Doing Business in Countries (Regions) for Enterprises Investing Abroad (Iraq).
   * Drafted the Agreement on Corporate Compliance System Construction Services and the Compliance Urging Letter to a company in Uruguay and Tianjin, assisted in organizing the 2021 International Commercial Legal Cooperation Forum.
 
-* Fall 2015: Judge's Assistant
+* Sep.2019-Dec.2019: Judge's Assistant
   * Beijing Xicheng District People's Court (Financial Street Branch)
   * Applied the professional knowledge learned in practice, assisted the judge in completing the work of file sorting and editing of judgment documents.
   * Sorted out the court transcripts for some simple cases with clear facts, learned about financial loan contract disputes, gained a perceptual understanding of the work of the court.
