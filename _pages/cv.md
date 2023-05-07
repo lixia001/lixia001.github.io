@@ -21,8 +21,12 @@ Awards
 * Outstanding Graduate of Beijing
 * Outstanding Graduation Thesis
 
-Publications
+科研经历
 ======
+* 国际视野下的新能源汽车法律政策研究新 课题
+  * 中国法学会
+  * 新能源汽车全球知识产权布局的机遇及挑战应对
+
 * Personalized Law（Commercial Press）
   * Translator
   * Translated chapter 6 and 8 of Personalized Law: Different Rules for Different People (Oxford University Press)
@@ -34,6 +38,11 @@ Publications
 
 Work experience
 ======
+* Oct.2022-Now: Intern
+  * Beijing Institute of Technology Legal Aid Center
+  * Beijing, China
+  * 解答法律问题，提供法律意见（劳动纠纷，侵权责任纠纷）
+
 * Nov.2021-Jan.2022: Intern
   * China Council for the Promotion of International Trade, Legal Service Center
   * Beijing, China
