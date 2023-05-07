@@ -8,6 +8,8 @@ redirect_from:
   - /about.html
 ---
 
+一个乱写乱画，存储自己经历的website
+
 Li Xia is a postgraduate student majoring in international law at the [Beijing Institute of Technology](https://english.bit.edu.cn/). She has been awarded the Outstanding Graduate of Beijing by Beijing Municipal Education Commission and Outstanding Contribution Award by China International Economic and Trade Arbitration Commission in 2022.<br/>
 During her master program, she focuses on access and benefit-sharing mechanisms. In March this year, she participated in a legal policy workshop on sharing pathogenic microbial resources organized by the Chinese Center for Disease Control and Prevention and presented with her mentor on the fair sharing of digital sequence information of pathogenic microorganisms from the perspective of international law.<br/>
 She has participated in translating and writing several books, including Personalized Law and Blockchain Law. Her guiding article on how to do legal research in legal competitions was reposted by an official account and widely read.<br/>
